@@ -17,7 +17,7 @@ operations, and U.S. Army CH-47 aviation maintenance.
 
 ## Selected Background
 
-- Founder / CEO, CoContractor
+- Co-Founder / CoContractor
 - Mid-Market Commercial Sales + AI GTM Systems Engineer, Shopify
 - Sales & GTM Consultant, GC Roofing & Construction
 - Mid-Market AE and SDR, Edgemesh
