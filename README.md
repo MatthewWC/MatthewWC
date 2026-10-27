@@ -1,31 +1,23 @@
 # Matthew Cook
 
-Founder of [CoContractor](https://cocontractor.com), building AI-native
-operating software for roofing and exterior contractors.
+I build the systems revenue teams run on.
 
-I work across product, engineering, and go-to-market systems. My background
-spans full-stack engineering, eCommerce, sales systems, field-services
-operations, and U.S. Army CH-47 aviation maintenance.
+At Shopify I built an AI demo builder for the sales team. A rep enters a
+prospect's website, and a tailored demo store is ready in about 3 minutes
+instead of 2 to 4 weeks with an agency. 300+ people across sales use it.
 
-## Current Focus
+Before that I sold, and hit 100%+ of quota in every revenue role. I started
+out keeping CH-47 Chinooks flying in the U.S. Army.
 
-- Contractor operations software
-- AI-assisted workflow automation
-- Geospatial and storm-restoration workflows
-- Vertical SaaS for roofing and exterior trades
-- Sales and GTM systems that turn abstract value into concrete demos
+## Background
 
-## Selected Background
-
-- Co-Founder / CoContractor
-- Mid-Market Commercial Sales + AI GTM Systems Engineer, Shopify
-- Sales & GTM Consultant, GC Roofing & Construction
-- Mid-Market AE and SDR, Edgemesh
-- Full Stack Engineer, CODE/+/TRUST
-- Aviation Engineer, U.S. Army
+- AI GTM Systems Engineer, Shopify (2025 to now)
+- Founding GTM & Ops Leader, GC Roofing & Construction (2024 to 2025)
+- SDR, then Account Executive, Edgemesh (2021 to 2024)
+- Full Stack Engineer, CODE/+/TRUST (2019 to 2021)
+- Aviation Engineer, U.S. Army (2014 to 2018)
 
 ## Links
 
-- CoContractor: https://cocontractor.com
+- Portfolio: https://matthewcook.vercel.app
 - LinkedIn: https://www.linkedin.com/in/matthew-cook-995190150/
-
